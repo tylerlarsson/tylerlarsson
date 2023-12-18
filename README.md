@@ -1,14 +1,17 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tylerlarsson.tylerlarsson">
+#Hi there 👋
 
-![I am a individual Full-Stack Developer.]
+Senior Full-Stack Developer
 
-- 🚀 My Skills:
+🚀 My Skills:
+
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&style=plastic)  
   ![Vue](https://img.shields.io/badge/-VueJS-4FC08D?logo=Vue.js&style=plastic&logoColor=white)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) 
+  ![C#](https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white) 
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=Socket.io&style=plastic)
